@@ -1,0 +1,4 @@
+$ go mod init FinesApp
+
+Type in project's directory alongside with modules
+$ go get -t -d github.com/tebeka/selenium
